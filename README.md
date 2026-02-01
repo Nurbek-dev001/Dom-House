@@ -178,6 +178,6 @@ This project was developed for academic purposes to demonstrate practical skills
 ---
 
 <p align="center">
-  Built for the Advanced Databases (NoSQL) course • Happy coding 🚀
+  Built for the Advanced Databases (NoSQL) course •
 </p>
 
