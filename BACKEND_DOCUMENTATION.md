@@ -607,11 +607,3 @@ This project is licensed under the ISC License - see the [LICENSE](../LICENSE) f
 
 ---
 
-<div align="center">
-  <p>Built with ❤️ by the BuildEstate Team</p>
-  <p>
-    <a href="https://github.com/AAYUSH412/Real-Estate-Website">GitHub</a> •
-    <a href="https://buildestate.vercel.app">Live Demo</a> •
-    <a href="#-support">Support</a>
-  </p>
-</div>
