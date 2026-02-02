@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚙️ BuildEstate Backend
+# ⚙️ DomHouse Backend
 
 ### Robust Node.js API Server with AI Integration
 
@@ -9,7 +9,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-8.9+-47A248?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
 [![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens)](https://jwt.io/)
 
-[🔗 API Docs](../API_TESTING_GUIDE.md) • [📚 Backend Guide](../BACKEND_DOCUMENTATION.md) • [🐛 Report Issues](https://github.com/AAYUSH412/Real-Estate-Website/issues)
+[🔗 API Docs](../API_TESTING_GUIDE.md) • [📚 Backend Guide](../BACKEND_DOCUMENTATION.md) • 
 
 </div>
 
@@ -706,12 +706,4 @@ pm2 logs buildestate-api
 - **Railway**
 - **Docker** containers
 
-## 📞 Support
 
-- Check the [troubleshooting guide](../BACKEND_DOCUMENTATION.md#-troubleshooting)
-- Open an issue on GitHub
-- Run `./setup.sh` for automated setup
-
----
-
-Built with ❤️ for BuildEstate
