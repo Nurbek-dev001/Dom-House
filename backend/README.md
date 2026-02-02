@@ -698,12 +698,3 @@ pm2 logs buildestate-api
 
 <div align="center">
 
-**Powering BuildEstate with robust API architecture**
-
-[⭐ Star](https://github.com/AAYUSH412/Real-Estate-Website) • [🐛 Issues](https://github.com/AAYUSH412/Real-Estate-Website/issues) • [📖 Docs](../README.md)
-
-</div> 
-- **Railway**
-- **Docker** containers
-
-
