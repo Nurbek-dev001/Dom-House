@@ -70,7 +70,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/AAYUSH412/Real-Estate-Website.git
+
 cd Real-Estate-Website/frontend
 
 # Install dependencies
