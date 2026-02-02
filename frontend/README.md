@@ -9,7 +9,7 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3+-06B6D4?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-latest-0055FF?style=flat-square&logo=framer)](https://www.framer.com/motion/)
 
-[🚀 Live Demo](https://domhouse.vercel.app) • [📚 Documentation](../README.md) • [🐛 Report Issues](https://github.com/AAYUSH412/Real-Estate-Website/issues)
+[🚀 Live Demo](https://domhouse.vercel.app) • [📚 Documentation](../README.md) •
 
 </div>
 
